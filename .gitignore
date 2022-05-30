@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Solidity build directory
+build/
+
+# Artifacts directory created by Remix editor
+contracts/artifacts
